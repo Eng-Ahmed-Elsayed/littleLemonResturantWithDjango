@@ -6,7 +6,7 @@
 
 ## 2-Home page part 2
 
-![Home page part 2](.\Images\2-home2.png)
+![Home page part 2](..\Images\2-home2.png)
 
 ## 3-About page
 
