@@ -2,7 +2,7 @@
 
 ## 1-Home page part 1
 
-![Home page part 1](.\Images\1-home1.png)
+![Home page part 1](./Images/1-home1.png)
 
 ## 2-Home page part 2
 
